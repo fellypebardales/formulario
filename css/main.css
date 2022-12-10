@@ -83,15 +83,7 @@ legend {
 }
 
 @media (max-width: 730px) {
-    br {
-        display: none;
-    }
-
     .box {
         width: 80%;
-    }
-
-    .input__box {
-        margin: 30px 0;
     }
 }
